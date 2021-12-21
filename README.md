@@ -50,7 +50,7 @@ c) Crea un método que reciba como parámetros las tres listas que hemos creado.
 a) Ejecuta el comando libcamera-jpeg -o imagen.jpg para tomar una foto con la cámara.
 b) Copia el fichero creado a tu ordenador usando el comando scp <origen> <destino>. Visualiza el fichero, ha de mostrar una TV. (10 min)  
 
-###Entrega de la práctica:
+### Entrega de la práctica:
 
 9.	Verifica que todo funciona correctamente antes de realizar el siguiente punto.
 
